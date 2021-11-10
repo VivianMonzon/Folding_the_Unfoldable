@@ -1,5 +1,5 @@
 # Folding_the_Unfoldable
-## Using AlphaFold to investigate spurious proteins in Antifam
+## Using AlphaFold to investigate spurious proteins in AntiFam
 
 In our study, we used AlphaFold2 [[1]](#1) in order to investigate spurious proteins in the AntiFam database [[2]](#2). This repository provides the sequence data as well as scripts used in our study. The AlphaFold structure prediction results are saved under the following link:
 https://drive.google.com/drive/folders/1u9OocRIAabGQn56GljoG1JTDAxjkY1ro
